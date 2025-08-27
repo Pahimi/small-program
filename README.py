@@ -12,7 +12,6 @@ for i in range(1, 8):
     print("*" * elt)
     elt += 1
 
-
 t3 = []
 t1 = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] 
 t2 = ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Aout', 'Septembre', 'Octobre', 'Novembre', 'Décembre']
