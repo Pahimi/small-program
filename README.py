@@ -20,4 +20,4 @@ for i in t2:
     t3.append(i)
     t3.append(t1[j])
     j += 1
-print(t3)
+print(t3)# la sortie resemblerait a ceci: ['Janvier', 31, 'Fevrier', 28, 'Mars', 31, etc...]
